@@ -1,0 +1,8 @@
+I need a unicorn manager to keep track of my unicorns, so I'd like a flexible, easily used back-end system set up.
+ 
+I have a pasture, a barn, and a corral
+Unicorns may be kept in any of these locations. 
+POST - I need the ability to add a new unicorn. 
+PUT - I need to be able to move unicorns from one place to another. 
+GET - I need to be able to see where all of my unicorns are.
+This needs to be a fully-functional back end.

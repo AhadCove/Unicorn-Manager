@@ -1,0 +1,56 @@
+{
+  "unicorns": [
+    {
+      "id": 1,
+      "name": "ponyta",
+      "gender": "female",
+      "age": 12,
+      "color": "green",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "mack",
+      "gender": "male",
+      "age": 69,
+      "color": "orange",
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "sora",
+      "gender": "female",
+      "age": 28,
+      "color": "yellow",
+      "locationId": 3
+    },
+    {
+      "id": 5,
+      "name": "huns",
+      "gender": "female",
+      "age": 42,
+      "color": "pink",
+      "locationId": 3
+    },
+    {
+      "id": 6,
+      "name": "woody",
+      "gender": "male",
+      "age": 8,
+      "color": "brown",
+      "locationId": 1
+    },
+    {
+      "id": 7,
+      "name": "brandy",
+      "gender": "female",
+      "age": 19,
+      "color": "blue",
+      "locationId": 2
+    }
+  ]
+}
