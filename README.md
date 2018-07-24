@@ -28,7 +28,7 @@ GET http://localhost:4500/unicorns
 
 The parameter `locationName` can take in the locations id or the name of the location
 
-GET http://localhost:4500/unicorns:locationName
+GET http://localhost:4500/unicorns/:locationName
 
 
 ### Create a new Unicorn
